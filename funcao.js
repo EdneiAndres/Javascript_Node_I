@@ -38,3 +38,8 @@ function apresentar(){
 const quadrado = x => x * x;
 eco(quadrado(8));
 
+function darBomDia(){
+    console.log("Bom dia.")
+}
+
+darBomDia();
